@@ -23,7 +23,6 @@ Copy code
 git clone https://github.com/Shashmith29/Implemention-Of-Drag-And-Drop-Interface.git
 Open the project folder:
 
-bash
 Copy code
 cd drag-and-drop-interface
 Open the index.html file in your preferred web browser.
